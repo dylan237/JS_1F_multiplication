@@ -13,10 +13,5 @@
 2. 需使用 HTML、CSS、JS 技術  
 3. 介面需與設計稿一致  
 
-## 撰寫 BLOG 技術文章 (推薦 medium)
-> 文章標籤請一率下 `JS地下城`，以方便搜尋
-
-1. 你攻略此 BOSS 的攻略過程心得  
-
 ## 資源下載
 1. [UI線上設計稿](https://xd.adobe.com/spec/256981fc-ef65-4d9b-773c-45d8ef0353c6-5358/screen/50fba855-bde7-4771-b73c-3fd839418cf0/multiplication-chart/)  
