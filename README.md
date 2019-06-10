@@ -1,6 +1,6 @@
 > JS地下城練習 - F1
 
-[DEMO](https://dylan237.github.io/JS_F2_clock/)
+[DEMO](https://dylan237.github.io/JS_F1_multiplication/)
 
 ## BOSS弱點
 
