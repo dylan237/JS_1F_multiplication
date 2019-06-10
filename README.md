@@ -5,7 +5,7 @@
 使用技術
 - HTML
 - CSS
-- V
+- Vanilla JS
 
 ## BOSS弱點
 
