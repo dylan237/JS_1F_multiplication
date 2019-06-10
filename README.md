@@ -1,4 +1,4 @@
-## JS地下城練習 - F1 9x9 乘法表
+## JS地下城練習 - 1F 9x9 乘法表
 
 [DEMO](https://dylan237.github.io/JS_F1_multiplication/)
 
