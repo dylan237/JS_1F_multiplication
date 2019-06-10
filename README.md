@@ -1,6 +1,6 @@
 ## JS地下城練習 - 1F 9x9 乘法表
 
-[DEMO](https://dylan237.github.io/JS_F1_multiplication/)
+[DEMO](https://dylan237.github.io/JS_1F_multiplication/)
 
 使用技術
 - HTML
